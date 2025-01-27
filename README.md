@@ -1,7 +1,12 @@
 # Data-Structures-Algorithms---Analysis-and-Design
 
 Project One located in M6 <br>
-Project Two located in M7
+Project Two located in M7 <br><br>
+
+M2/VectorSorting.cpp - Quick sort and Selection Sorting algorithms <br>
+M3/LinkedList.cpp - Working with Linked Lists <br>
+M4/HashTable.cpp - Working with Hash Tables <br>
+M5/BinarySearchtree.cpp - BST Algorithms <br>
 
 ## What was the problem you were solving in the projects for this course
 
