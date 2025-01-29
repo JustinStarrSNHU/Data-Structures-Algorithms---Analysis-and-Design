@@ -1,12 +1,23 @@
 # Data-Structures-Algorithms---Analysis-and-Design
 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+# Hello, and welcome to the Data Structures and Algorithms / Analysis and Design Repository of my Academic Projects🖐️
+
+Learned various data structures (e.g. Vectors, Hash Tables, Linked Lists), advanced algorithms (e.g. quick sort, selection sort, and BSTs), and comparison of time complexities to aid in problem-solving.
+
 Project One located in M6 <br>
 Project Two located in M7 <br><br>
 
-M2/VectorSorting.cpp - Quick sort and Selection Sorting algorithms <br>
-M3/LinkedList.cpp - Working with Linked Lists <br>
-M4/HashTable.cpp - Working with Hash Tables <br>
-M5/BinarySearchtree.cpp - BST Algorithms <br>
+# 📖 Table of Contents
+
+> 📌 M2/VectorSorting.cpp - Quick sort and Selection Sorting algorithms 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Data-Structures-Algorithms---Analysis-and-Design/tree/main/M2)<br>
+📌 M3/LinkedList.cpp - Working with Linked Lists 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Data-Structures-Algorithms---Analysis-and-Design/tree/main/M3)<br>
+📌 M4/HashTable.cpp - Working with Hash Tables 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Data-Structures-Algorithms---Analysis-and-Design/tree/main/M4)<br>
+📌 M5/BinarySearchtree.cpp - BST Algorithms 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Data-Structures-Algorithms---Analysis-and-Design/tree/main/M5)<br>
+📌 M6/ Project One: Pseudocode for Data Structures (Vectors, Hash Tables, BSTs) and Runtime Analysis (Time Complexity) 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Data-Structures-Algorithms---Analysis-and-Design/tree/main/M6)<br>
+📌 M7/ Project Two - .cpp File and resource file 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Data-Structures-Algorithms---Analysis-and-Design/tree/main/M7)<br>
 
 ## What was the problem you were solving in the projects for this course
 
